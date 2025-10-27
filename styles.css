@@ -9,6 +9,7 @@ body {
     border: solid black 1px;
     height: auto;
     border-radius: 5px;
+    width: 700px;
 }
 
 nav {
